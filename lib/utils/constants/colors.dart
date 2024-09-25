@@ -8,9 +8,14 @@ class TColors {
   static const Color accent = Color(0xffb0c7ff);
 
   static const Gradient linearGradient = LinearGradient(
-      begin: Alignment(0.0, 0.0),
-      end: Alignment(0.707, -0.707),
-      colors: [Color(0xffff9a9e), Color(0xfffad0c4), Color(0xfffad0c4)]);
+    begin: Alignment(0.0, 0.0),
+    end: Alignment(0.707, -0.707),
+    colors: [
+      Color(0xffff9a9e),
+      Color(0xfffad0c4),
+      Color(0xfffad0c4)
+    ]
+  );
 
   static const Color textprimary = Color(0xff333333);
   static const Color textsecondary = Color(0xff6c757d);
@@ -22,4 +27,6 @@ class TColors {
 
   static const Color lightContainer = Color(0xfff6f6f6);
   static Color darkContainer = Colors.white.withOpacity(0.1);
+
+
 }
