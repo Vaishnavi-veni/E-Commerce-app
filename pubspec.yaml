@@ -17,6 +17,7 @@ dependencies:
   intl:
   logger:
   url_launcher:
+  get_storage:
 
   #Icons
   iconsax:
