@@ -18,6 +18,7 @@ dependencies:
   logger:
   url_launcher:
   get_storage:
+  flutter_native_splash:
 
   #Icons
   iconsax:
@@ -41,6 +42,8 @@ flutter:
   #-------------LOCAL ASSETS----------------------#
   assets:
     - assets/logos/
+    - assets/logos/yamarkets_dark_logo.png
+    - assets/logos/yamarkets_light_logo.png
     - assets/icons/
     - assets/images/
 
