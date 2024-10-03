@@ -19,6 +19,7 @@ dependencies:
   url_launcher:
   get_storage:
   flutter_native_splash:
+  smooth_page_indicator:
 
   #Icons
   iconsax:
@@ -45,4 +46,6 @@ flutter:
     - assets/logos/yamarkets_dark_logo.png
     - assets/logos/yamarkets_light_logo.png
     - assets/icons/
+    - assets/images/
+    - assets/images/on_boarding_images/
 

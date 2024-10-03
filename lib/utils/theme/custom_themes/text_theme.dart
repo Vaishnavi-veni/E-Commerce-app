@@ -25,11 +25,11 @@ class TTextTheme {
 
   static TextTheme darkTextTheme = TextTheme(
     headlineLarge: const TextStyle().copyWith(
-        fontSize: 32.0, fontWeight: FontWeight.bold, color: Colors.black),
+        fontSize: 32.0, fontWeight: FontWeight.bold, color: Colors.white),
     headlineMedium: const TextStyle().copyWith(
-        fontSize: 24.0, fontWeight: FontWeight.w600, color: Colors.black),
+        fontSize: 24.0, fontWeight: FontWeight.w600, color: Colors.white),
     headlineSmall: const TextStyle().copyWith(
-        fontSize: 18.0, fontWeight: FontWeight.w600, color: Colors.black),
+        fontSize: 18.0, fontWeight: FontWeight.w600, color: Colors.white),
 
         titleLarge: const TextStyle().copyWith(fontSize: 16.0,fontWeight: FontWeight.w600,color: Colors.white),
     titleMedium: const TextStyle().copyWith(fontSize: 16.0,fontWeight: FontWeight.w500,color: Colors.white),
