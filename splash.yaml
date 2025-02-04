@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#FFFFFF"  # Corrected hex color (it should be 6 characters, not 5)
+  color_dark: "#272727"
+  image: assets/logos/yamarkets_light_logo.png  # Added file extension
+  image_dark: assets/logos/yamarkets_dark_logo.png  # Added file extension
+
+  android: true
+  ios: true
+
+  web: false  
